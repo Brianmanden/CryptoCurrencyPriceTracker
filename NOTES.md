@@ -1,6 +1,6 @@
 # NOTES
 
-## Coinbase - API etc.
+## Coinbase - API etc
 
 [https://stackoverflow.com/questions/70285328/coinbase-api-how-to-get-spot-prices-of-all-supported-coins](https://stackoverflow.com/questions/70285328/coinbase-api-how-to-get-spot-prices-of-all-supported-coins)
 
